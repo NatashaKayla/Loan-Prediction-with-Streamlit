@@ -96,4 +96,3 @@ streamlit run 2702235891_NatashaKaylaCahyadi_3.py
 * 🔍 Actionable insights from EDA informed better feature engineering and model reliability.
 * ⚙️ The model accurately identifies patterns in applicant data to predict loan eligibility.
 * 🖥️ Through Streamlit, the model becomes accessible and usable by non-technical users.
-```
