@@ -2,8 +2,6 @@
 
 This project builds and deploys a machine learning model to predict loan approval based on user input. It covers the full data science workflow: from exploratory data analysis and preprocessing to model training and real-time prediction using Streamlit.
 
-🎓 Built as a Data Science project at Binus University.
-
 ---
 
 ## 🎯 Main Objectives
