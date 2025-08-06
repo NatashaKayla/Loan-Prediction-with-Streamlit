@@ -21,7 +21,7 @@ The dataset contains personal and financial information of loan applicants along
 | Feature                          | Description                                             |
 |----------------------------------|---------------------------------------------------------|
 | `person_age`                     | 👤 Age of the applicant                                 |
-| `person_gender`                 |  ⚥ Gender (encoded)                                     |
+| `person_gender`                 |   ⚥ Gender (encoded)                                     |
 | `person_education`              | 🎓 Education level (encoded)                            |
 | `person_income`                 | 💵 Monthly income                                       |
 | `person_emp_exp`               | 🧳 Employment experience (in months)                    |
